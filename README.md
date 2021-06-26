@@ -1,0 +1,2 @@
+# GoogleCourseCapstone
+ This repository serves as a spot to hold my work for the Google Coursera Data Analytics Professional Certificate Course. The purpose of this repository is to hold the capstone project which was a start to finish data analytics process for a mock company Cyclistic. The methods I found the most useful and utilize in this repository is cleaning up the data in spreadsheets, analyze in mySQL and create visuals in Tableau.
